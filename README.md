@@ -26,7 +26,7 @@ Estou construindo meu toolkit com as seguintes tecnologias:
 | **Linguagens** | Python (principal), C#, SQL |
 | **Bibliotecas (Python)** | Pandas e Matplotlib (Aprendizagem ativa) |
 | **Banco de Dados** | MySQL |
-| **Outras** | Unity (para GameDev), Git e GitHub |
+| **Outras** | Godot (para GameDev), Git e GitHub |
 
 ---
 
