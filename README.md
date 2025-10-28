@@ -32,10 +32,10 @@ Estou construindo meu toolkit com as seguintes tecnologias:
 
 ### 💡 Projetos de Aprendizado
 
-Estes são os projetos que estou usando para aplicar meus conhecimentos:
+Estes são os projetos que estou usando para aplicar meus conhecimentos (e que serão postados em breve):
 
-* **[Pit Stop Insights]:** Análise do tempo médio de pit stops por equipe e como isso impacta o resultado final da corrida.
-* **[Pixel Sprint]:** Um jogo simples que usei para praticar C#. Um carrinho corre por uma estrada reta, obstáculos aparecem e você só pode mudar de faixa.
+* **Pit Stop Insights:** Análise do tempo médio de pit stops por equipe e como isso impacta o resultado final da corrida.
+* **Pixel Sprint:** Um jogo simples que usei para praticar C#. Um carrinho corre por uma estrada reta, obstáculos aparecem e você só pode mudar de faixa.
 
 ---
 
@@ -44,4 +44,4 @@ Estes são os projetos que estou usando para aplicar meus conhecimentos:
 Estou sempre aberta a trocar ideias e aprender!
 
 * **LinkedIn:** em breve
-* **Discord:** [yattaju]
+* **Discord:** yattaju
